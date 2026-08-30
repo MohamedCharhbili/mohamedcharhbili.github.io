@@ -1,0 +1,16 @@
+---
+title: "Mohamed Charhbili"
+---
+
+# Welcome
+
+Welcome to my academic website.
+
+I am a teaching assistant in Economics at the University of Lille, affiliated to LEM laboratory.
+
+## Research Interests
+
+- Urban Economics
+- Labour Economics
+- Environmental Economics
+- Applied Econometrics

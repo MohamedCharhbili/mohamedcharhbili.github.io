@@ -1,0 +1,5 @@
+---
+title: "Curriculum Vitae"
+---
+
+My academic curriculum vitae.
