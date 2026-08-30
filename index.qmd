@@ -1,16 +1,60 @@
 ---
 title: "Mohamed Charhbili"
+image: images/profile.jpg
+toc: false
+
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  image-alt: "Mohamed Charhbili"
+
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mohamed.charhbili@univ-lille.fr
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mohamed-charhbili-0b719318b/
+
+    - icon: book
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Mohamed-Charhbili-2?ev=hdr_xprf
 ---
 
-# Welcome
+Assistant Professor (ATER) in Economics  
+[Université de Lille — FaSEST](https://fasest.univ-lille.fr/)  
+[LEM — CNRS UMR 9221](https://lem.univ-lille.fr/en/)
 
-Welcome to my academic website.
+I am an Assistant Professor (ATER) in Economics at the University of Lille and a member of Lille Économie Management (LEM, CNRS UMR 9221).
 
-I am a teaching assistant in Economics at the University of Lille, affiliated to LEM laboratory.
+My research interests include quantitative economics, theoretical economics, search and matching theory, econometrics, and environmental economics.
+
+My current research focuses on the economic and environmental implications of teleworking, including residential location choices, commuting behaviour, mobility patterns, and greenhouse gas emissions.
 
 ## Research Interests
 
+- Environmental Economics
 - Urban Economics
 - Labour Economics
-- Environmental Economics
-- Applied Econometrics
+- Search and Matching Theory
+- Bid rent models
+- Causal inference
+
+## Academic Background
+
+I received my PhD in Economics from Université Savoie Mont Blanc, where my doctoral research focused on Teleworking challenges for the energy transition.
+
+During my doctoral studies, I was a Visiting Researcher at  [ESG–Université du Québec à Montréal (UQAM), Department of Economics](https://economie.esg.uqam.ca/en/) and received advanced training in microeconometrics, public policy evaluation, modern estimation methods and machine learning at the [Microeconometrics and Policy Evaluation Summer School at the Paris School of Economics](https://www.parisschoolofeconomics.eu/en/summer-school/microeconometrics-and-policy-evaluation/).
+
+In 2026, I joined the [Department of Economics & Finance at Florida Gulf Coast University (FGCU)](https://www.fgcu.edu/cob/programs/fin-econ/econbs) as a Visiting Researcher.
+
+## Contact
+
+Université de Lille<br>
+SH2 Building – Office 101<br>
+Lille Économie Management — LEM (CNRS UMR 9221)<br>
+Villeneuve d'Ascq, France
+
+[mohamed.charhbili@univ-lille.fr](mailto:mohamed.charhbili@univ-lille.fr)
